@@ -11,6 +11,9 @@ This project is a simple calculator application built using **Tkinter**, a stand
   - **Backspace (`←`)**: Removes the last digit.
 - **Styled Buttons**: Custom styles for number, operation, and utility buttons.
 
+## special Features
+ - **Multiple oprations can be done back to back and after completing all the operations, we can see the final result.**
+
 ## Technologies Used
 
 - **Python 3.x**: The programming language used.
@@ -27,7 +30,7 @@ This project is a simple calculator application built using **Tkinter**, a stand
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/calculator-app.git
+    [git clone https://github.com/your-username/calculator-app.git](https://github.com/debottambhowmick/Advanced-Tkinter-calculator.git)
     ```
 
 2. **Navigate to the Project Directory**:
@@ -55,7 +58,8 @@ This project is a simple calculator application built using **Tkinter**, a stand
 
 ## Example
 
-![Calculator Screenshot](assets/calculator-screenshot.png) <!-- Replace with the actual path to your screenshot -->
+![image](https://github.com/user-attachments/assets/46a5f957-5624-478c-92c9-1fbce96ab8ae)
+![image](https://github.com/user-attachments/assets/49531478-99c5-4d28-8e2f-8bb5ed0ce728)
 
 ## License
 
@@ -67,4 +71,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## Contact
 
-For any questions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions, please contact [your-email@example.com](debottambhowmick@gmail.com).
