@@ -11,7 +11,7 @@ This project is a simple calculator application built using **Tkinter**, a stand
   - **Backspace (`←`)**: Removes the last digit.
 - **Styled Buttons**: Custom styles for number, operation, and utility buttons.
 
-## special Features
+## Special Features
  - **Multiple oprations can be done back to back and we can see the final result.**
 
 ## Technologies Used
