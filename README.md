@@ -12,7 +12,7 @@ This project is a simple calculator application built using **Tkinter**, a stand
 - **Styled Buttons**: Custom styles for number, operation, and utility buttons.
 
 ## special Features
- - **Multiple oprations can be done back to back and after completing all the operations, we can see the final result.**
+ - **Multiple oprations can be done back to back and we can see the final result.**
 
 ## Technologies Used
 
