@@ -71,4 +71,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## Contact
 
-For any questions, please contact [your-email@example.com](debottambhowmick@gmail.com).
+For any questions, please contact [debottambhowmick@gmail.com]
